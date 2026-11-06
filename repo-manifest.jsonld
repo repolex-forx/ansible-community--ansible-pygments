@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/ansible-pygments/commit/1a68878ae8a70bc69d02cfdd0b2f7fb963c79e54",
       "git:hexsha": "1a68878ae8a70bc69d02cfdd0b2f7fb963c79e54",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/ansible-pygments/commit/46d2f6892b1d2501afdd2783f4f023639c14d0e3",
